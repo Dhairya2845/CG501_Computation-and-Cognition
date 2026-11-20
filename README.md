@@ -58,4 +58,3 @@ These regenerate every figure and CSV listed above. Seeds are fixed in the code,
 ## Implementation choices not given in the paper
 
 Feature values (16 features on a 4 x 4 grid of levels), the RMS form of the distance, the neighbourhood cutoff at 3G, and averaging the two layers' recognition scores in the control network. See the report for details.
-
